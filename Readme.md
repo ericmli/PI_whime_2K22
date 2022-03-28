@@ -1,12 +1,12 @@
 # PI_whime_2K22
 
-Workers{
+Members {
 
-Eric M. Lima
-Luis Guilherme S. Moraes
-Wallace S. Gomes
-Mariana R. da Silva
-Igor M. Santos
+Eric M. Lima /
+Luis Guilherme S. Moraes /
+Wallace S. Gomes /
+Mariana R. da Silva /
+Igor M. Santos 
 
 }
 
